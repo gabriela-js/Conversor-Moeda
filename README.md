@@ -33,4 +33,4 @@ ao tópico de tecnólogia acima. Instruções para executar o programa:
 - Faça o download do repositório na sua máquina.
 - Entre na pasta build e abra o arquivo codigo.
 - O programa abrirá e podera usa-lo para fazer suas conversões.
-- Para sair do programa é so clicar no botão Sair.
+- Para encerrar o programa é so clicar no botão Sair.
