@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-## Objetivo
+## Sobre
 O objetivo é criar um projeto executável chamado "Conversor de Moedas". Neste projeto é possível:
 
 - Selecionar outras moedas para conversão.
@@ -27,6 +27,10 @@ As seguintes tecnológias, estão sendo utilizadas no projeto:
 - **[API de Awesome](https://docs.awesomeapi.com.br/api-de-moedas)**
 - **[cx_Freeze](https://pypi.org/project/cx-Freeze/)**
 
-## Dependências
+## Na prática
 * Por ser um programa executável, não é necessário instalar nem a linguagem Python ou qualquer dependência referente 
-ao tópico de tecnólogia acima.
+ao tópico de tecnólogia acima. Instruções para executar o programa:
+- Faça o download do repositório na sua máquina.
+- Entre na pasta build e abra o arquivo codigo.
+- O programa abrirá e podera usa-lo para fazer suas conversões.
+- Para sair do programa é so clicar no botão Sair.
