@@ -28,7 +28,7 @@ As seguintes tecnológias, estão sendo utilizadas no projeto:
 - **[cx_Freeze](https://pypi.org/project/cx-Freeze/)**
 
 ## Na prática
-* Por ser um programa executável, não é necessário instalar nem a linguagem Python ou qualquer dependência referente 
+Por ser um programa executável, não é necessário instalar nem a linguagem Python ou qualquer dependência referente
 ao tópico de tecnólogia acima. Instruções para executar o programa:
 - Faça o download do repositório na sua máquina.
 - Entre na pasta build e abra o arquivo codigo.
